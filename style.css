@@ -21,7 +21,7 @@ body{
     background-image: url(img/Glamuzina-Architects.png);
 }
 ::-webkit-scrollbar {
-    width: 9px;
+    width: 0px;
     background-color: rgb(232, 229, 229);
     
   }
@@ -41,7 +41,7 @@ body{
     width: 90%;
     height: 90px;
     justify-content: space-between;
-    padding-top: 70px;
+    padding-top: 50px;
    
     z-index: 3;
    
@@ -181,7 +181,7 @@ body{
     flex-direction: column;
     margin: 0 auto;
     text-align: center;
-    max-width: 300px;
+    max-width: 310px;
     margin-top: 250px;
     font-family: 'Pontano Sans', sans-serif;
     font-size: 15px;
