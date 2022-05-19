@@ -167,6 +167,9 @@ body{
                          
     
 }
+iframe{
+    border-width: 0px;
+}
 .video{
     
     width: 700px;
